@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: cafetera.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0068\u2-act1-va-0068\mkdir img-original-0068\cafetera.jpg
+Formato por extension: .JPG
+Tamano en bytes: 17601
+Tamano en KB: 17.19
+Tamano en MB: 0.0168
+
+DIMENSIONES
+-----------
+Ancho: 447 pixeles
+Alto: 447 pixeles
+Resolucion: 447 x 447
+Total de pixeles: 199,809
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 206.97
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 206.06
+Verde (G): 206.83
+Rojo (R): 208.03
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
